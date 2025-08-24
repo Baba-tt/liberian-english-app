@@ -6,6 +6,3 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python server.py
     autoDeploy: true
-git add render.yaml
-git commit -m "Add Render config"
-git push
