@@ -32,16 +32,12 @@ Upload the trained folders to HF Hub or set env vars:
 - Connect on Render → it uses `render.yaml`
 - Live at: `https://<your-app>.onrender.com`
 
-## Deploy (Heroku)
-- Ensure `Procfile` present
-- `heroku create your-app && git push heroku main`
 
 ## Ownership
 ```
 Copyright (c) 2025 Baba Tamba
 All rights reserved.
 ```
-Replace with your name to assert ownership.
 
 ## Environment Tips
 - CPU-only works; CUDA speeds up if available (`DEVICE=cuda`, `WHISPER_COMPUTE=float16`).
