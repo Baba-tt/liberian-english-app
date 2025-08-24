@@ -38,7 +38,7 @@ Upload the trained folders to HF Hub or set env vars:
 
 ## Ownership
 ```
-Copyright (c) 2025 [Your Full Name]
+Copyright (c) 2025 Baba Tamba
 All rights reserved.
 ```
 Replace with your name to assert ownership.
