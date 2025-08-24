@@ -1,0 +1,7 @@
+Copyright (c) 2025 [Your Full Name]
+
+All rights reserved.
+
+This software and associated documentation files (the “Software”) are the exclusive property of the copyright holder 
+listed above. No part of the Software may be reproduced, distributed, modified, or transmitted in any form or by any 
+means, without prior written permission of the copyright holder, except as permitted by applicable law.

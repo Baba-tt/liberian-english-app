@@ -1,0 +1,38 @@
+{
+  "replacements": [
+    {
+      "from": "going to",
+      "to": "gonna"
+    },
+    {
+      "from": "want to",
+      "to": "wan'"
+    },
+    {
+      "from": "I am",
+      "to": "I'm"
+    }
+  ],
+  "directions": {
+    "English \u2192 Liberian English": [
+      {
+        "from": "because",
+        "to": "becos"
+      },
+      {
+        "from": "people",
+        "to": "people dem"
+      }
+    ],
+    "Liberian English \u2192 English": [
+      {
+        "from": "becos",
+        "to": "because"
+      },
+      {
+        "from": "people dem",
+        "to": "people"
+      }
+    ]
+  }
+}
